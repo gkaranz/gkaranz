@@ -1,16 +1,26 @@
-## Hi there 👋
+# <a href="https://www.linkedin.com/in/karan-s-9937543b3/">Karan Singh</a>'s IT and Cybersecurity Projects Portfolio 🔐
+
+A dedicated individual who completed studies in Computer Science in Italy, fluent in both English and Italian. Currently working as a Store Manager. I am currently pivoting to Cyber Security, a field that has always been my passion. I am actively studying and pursuing relevant certifications to enhance my skills and build a solid foundation. I hold Google Cybersecurity Professional, CompTIA A+, Network+ and Security+ certifications and am currently studying for the Pentest+ certification, with plans to continue adding valuable certifications to my expertise.
+
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: [(https://www.linkedin.com/in/karan-s-9937543b3/)]
 
 <!--
-**gkaranz/gkaranz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->

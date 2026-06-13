@@ -5,7 +5,6 @@ A dedicated individual who completed studies in Computer Science in Italy, fluen
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/)**
 
 ## 🚨 Threat Hunting and Security Operations

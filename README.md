@@ -5,7 +5,8 @@ A dedicated individual who completed studies in Computer Science in Italy, fluen
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/)**
+- **[Windows 11 STIG Remediations (PowerShell)](https://github.com/gkaranz/gkaranz/tree/main/STIGS)**
+
 
 ## 🚨 Threat Hunting and Security Operations
 

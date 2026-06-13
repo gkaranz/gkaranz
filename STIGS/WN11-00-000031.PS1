@@ -16,14 +16,8 @@
     Plugin IDs      : N/A
     STIG-ID         : WN11-00-000031
 
-.TESTED ON
-    Date(s) Tested  : 
-    Tested By       : 
-    Systems Tested  : 
-    PowerShell Ver. : 
 
 .USAGE
-    Put any usage instructions here.
     Example syntax:
     PS C:\> .\STIG-ID-WN11-00-000031).ps1 
 #>

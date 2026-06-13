@@ -11,6 +11,7 @@ A dedicated individual who completed studies in Computer Science in Italy, fluen
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/gkaranz/Threat-Hunting-Scenario-TOR)**
+- **[Threat Hunt Report (Rocky Clinic - Hunt 07)](https://github.com/gkaranz/Threat-Hunt-Report-Rocky-Clinic-/)**
 
 <hr/>
 
